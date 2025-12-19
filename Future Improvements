@@ -1,0 +1,6 @@
+## 🚀 Future Enhancements
+
+- Integrate machine learning models directly inside Power BI using Python scripts.
+- Add customer lifetime value (CLV) analysis.
+- Deploy the dashboard to **Power BI Service** for real-time monitoring.
+- Automate data refresh using cloud pipelines.
