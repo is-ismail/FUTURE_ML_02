@@ -7,6 +7,14 @@ The dashboard enables stakeholders to understand churn behavior, identify high-r
 
 The primary objective is to support **data-driven customer retention strategies**.
 
+## 📂 Repository Structure
+
+- `dashboard.png` → Power BI dashboard preview
+- `data/` → Dataset used for analysis  
+  > Note: Original dataset not included due to privacy/licensing constraints.
+- `notebooks/` → Placeholder for future Python-based analysis and modeling
+- `outputs/` → Placeholder for model outputs and exported results
+
 ---
 
 ## 🎯 Objectives
