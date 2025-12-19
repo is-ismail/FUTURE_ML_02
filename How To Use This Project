@@ -1,0 +1,10 @@
+## ▶️ How to Use This Project
+
+1. Clone or download the repository.
+2. Open the Power BI file (`.pbix`) using **Power BI Desktop**.
+3. Use slicers to filter customers by:
+   - Contract type
+   - Internet service
+   - Payment method
+4. Analyze KPIs, churn distribution, and high-risk customer segments.
+5. Use insights to design customer retention strategies.
